@@ -12,3 +12,7 @@ This is something
 ## Introduction
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training.
