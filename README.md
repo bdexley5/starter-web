@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding some text
+More changes
 
 ## Purpose
 
